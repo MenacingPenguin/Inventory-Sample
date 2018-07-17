@@ -1,1 +1,0 @@
-This is simply to showcase some website code I wrote back in High School. This is not fully functional website code and requires that an SQL database be set up in a requisite format to accomodate the structures in these files.
